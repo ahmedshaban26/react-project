@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.acdd86ed.chunk.js",
+    "main.js.map": "/static/js/main.acdd86ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb8b48a2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb8b48a2.js.map",
+    "static/js/2.3133eed5.chunk.js": "/static/js/2.3133eed5.chunk.js",
+    "static/js/2.3133eed5.chunk.js.map": "/static/js/2.3133eed5.chunk.js.map",
+    "static/js/3.f8d3eeaf.chunk.js": "/static/js/3.f8d3eeaf.chunk.js",
+    "static/js/3.f8d3eeaf.chunk.js.map": "/static/js/3.f8d3eeaf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.3133eed5.chunk.js.LICENSE.txt": "/static/js/2.3133eed5.chunk.js.LICENSE.txt",
+    "static/media/Stunning-img.7b403623.jpg": "/static/media/Stunning-img.7b403623.jpg",
+    "static/media/home-one.bbc12b0b.jpg": "/static/media/home-one.bbc12b0b.jpg",
+    "static/media/image-one.fcaba93a.jpg": "/static/media/image-one.fcaba93a.jpg",
+    "static/media/image-two.8fc5f1ee.jpg": "/static/media/image-two.8fc5f1ee.jpg",
+    "static/media/img-1.b8266d2a.jpg": "/static/media/img-1.b8266d2a.jpg",
+    "static/media/img-2.9f67aae1.jpg": "/static/media/img-2.9f67aae1.jpg",
+    "static/media/img-3.884fd18a.jpg": "/static/media/img-3.884fd18a.jpg",
+    "static/media/img-4.87e56bd0.jpg": "/static/media/img-4.87e56bd0.jpg",
+    "static/media/img-two.7800ab53.jpg": "/static/media/img-two.7800ab53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb8b48a2.js",
+    "static/js/2.3133eed5.chunk.js",
+    "static/js/main.acdd86ed.chunk.js"
+  ]
+}
